@@ -1,0 +1,31 @@
+title: Syed Tangim Pasha
+position:  Lecturer
+title_name: Dept. CIS, DIU
+affiliation: Department of Computing and Information System (CIS), DIU
+email: syed15-8631@diu.edu.bd
+
+keywords: cis, ml, Syed Tangim Pasha, diu
+description: Syed Tangim Pasha
+canonical: https://www.linkedin.com/in/syed-tangim-pasha-243ba4149/
+
+research_gate: https://www.researchgate.net/profile/Syed-Pasha-7
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/Syed-Tangim-Pasha
+linkedin: https://www.linkedin.com/in/syed-tangim-pasha-243ba4149/
+
+avatar: ./assets/img/me.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+auto_dark_mode: true
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

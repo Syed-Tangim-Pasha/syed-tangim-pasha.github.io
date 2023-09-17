@@ -1,0 +1,34 @@
+main:
+
+  - title: Jita Shanti Rani Hasdak
+    conference: "Project: Animal Rescue & Clinical App"
+    image: ./assets/img/student.jpeg
+
+  - title: Mejbah Uddin Tamim
+    conference: "Project: BD Rent App"
+    image: ./assets/img/student2.jpg
+
+  - title: Sakib Khandaker
+    conference: "Project: Green BD App"
+    image: ./assets/img/student3.jpg
+
+  - title: Sajid Hasan Akhand
+    conference: "Project: Server-based Malware Scanner"
+    image: ./assets/img/student4.jpg
+
+  - title: Arif Raihan
+    conference: "Project: Kreeto the Virtual Assistant"
+    image: ./assets/img/student5.jpg
+
+  - title: Md. Minhajur Rahman
+    conference: "Project: Quick Edu Live"
+    image: ./assets/img/student6.jpg
+
+  - title: Muhammad Rashedul Islam
+    conference: "Project: Tutor Hub BD"
+    image: ./assets/img/student7.jpg
+
+  - title: Musabbir Hasan Ratul
+    conference: "Project: Ongoing Research on Network Security Vulnerabilities"
+    image: ./assets/img/student8.jpg
+

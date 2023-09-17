@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ site.title }} | {{site.title_name}}</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    {% if site.canonical %}
+    <link rel="canonical" href="{{ site.canonical }}"/>
+    {% endif %}
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+
+    {% if site.auto_dark_mode %}
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/publications.css">
+    {% else %}
+    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    {% endif %}
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        {% if site.avatar %}<a class="image avatar"><img src="{{ site.avatar }}" alt="avatar"  style="height: 200px; width: 200px;" /></a>{% endif %}
+
+        <h1><br>{{ site.title }}</h1>
+        <p>
+        {% if site.position %}
+        {{ site.position }}
+        <br>
+        {% endif %}
+
+        {% if site.affiliation %}
+        {{ site.affiliation }}
+        <br>
+        {% endif %}
+        {% if site.email %}<email>{{ site.email }}</email>{% endif %}
+        </p>
+        {% if site.cv_link %}<a href="{{ site.cv_link }}" target="_blank"">CV</a>  {% endif %}
+        {% if site.research_gate %}  / <a href=" https://www.researchgate.net/profile/Syed-Pasha-7" target="_blank"">ResearchGate</a>  {% endif %}
+        {% if site.github_link %}  / <a href=" https://github.com/Syed-Tangim-Pasha" target="_blank"">GitHub</a> {% endif %}
+        {% if site.linkedin %}  / <a href=" https://www.linkedin.com/in/syed-tangim-pasha-243ba4149/" target="_blank"">Linkedin</a>{% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      <br>
+      <p>
+        <small>© 2023 Syed Tangim Pasha (Last Update:
+          <script>
+            const monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+            var modiDate = new Date(document.lastModified);
+            var showAs = modiDate.getDate() + " " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
+            document.write(showAs);
+          </script>)
+        </small>
+      </p>
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

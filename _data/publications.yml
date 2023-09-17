@@ -1,0 +1,13 @@
+main:
+
+  - title: "Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques"
+    authors: <strong>Syed Tangim Pasha</strong>, Ashraful Islam, Eshtiak Ahmed, Mohammed Masudur Rahman, Md. Ferdouse Ahmed Foysal, Md. Zahangir Alam
+    conference: IEEE World AI IoT Congress 2023 <strong>(IEEE AIIoT 2023)</strong>.
+    page: https://ieeexplore.ieee.org/document/10174592
+    notes: <strong>Acceptance Rate 39%</strong>
+
+  - title: "Bengali News Classification Using Long Short Term Memory"
+    authors: <strong>Syed Tangim Pasha</strong>, Md. Ferdouse Ahmed Foysal, Sheikh Abujar, Syed Akhter Hossain
+    conference: 2nd International Conference on Emerging Technologies in Data Mining and Information Security <strong>(IEMIS-2020)</strong>.
+    page: https://link.springer.com/chapter/10.1007/978-981-33-4367-2_32
+    notes: <strong>DOI 10.1007/978-981-33-4367-2 32</strong>
