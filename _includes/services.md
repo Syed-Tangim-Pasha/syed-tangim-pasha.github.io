@@ -1,4 +1,4 @@
-## Services
+## Awards
 
 - <h4 style="margin:0 10px 0;">DIU Teaching Apprentice Fellowship (TAF) 2022 Training and Workshop</h4>
   - <p style="margin:0 0 5px;">I was selected as a Teaching Apprentice Fellow (TAF) from both the Computer Science and Engineering (CSE) and the Software Engineering (SWE) departments. It was a 4-day long workshop where I participated in different workshop programs based on Teaching.</p>
