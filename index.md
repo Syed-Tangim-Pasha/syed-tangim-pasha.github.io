@@ -27,7 +27,6 @@ I am Syed Tangim Pasha, currently working as a Lecturer in the Department of Com
 ## Research Experience
 
 - **[Mar. 2023 – Present]** Research Assistant (RA) at EMPATHY Lab, IUB, Dhaka, Bangladesh, on Human Stress disorder and other Health Informatics research.
-- **[Feb. 2023 – Present]** Research Assistant (RA) at CCDS.AI Lab, IUB, Dhaka, Bangladesh, on funded Machine Learning and Deep Learning projects.
 
 {% include_relative _includes/publications.md %}
 
