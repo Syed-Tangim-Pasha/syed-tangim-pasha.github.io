@@ -9,6 +9,7 @@ I am Syed Tangim Pasha, currently working as a lecturer in the Department of Com
 ## News
 
 - **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in the 11th ICIEV Conference 2023.
+- **[Sep. 2023]** My project student, Arifuzzaman Raihan's "Kreeto the Virtual Assistant," is finally live (website: https://kreeto.com/).
 - **[Aug. 2023]** "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus" accepted in IDF Virtual Congress 2023.
 - **[Aug. 2023]** My project student, Jita Shanti Rani Hasdak, defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App."
 - **[Aug. 2023]** My project student, Mejbah Uddin Tamim, defended his final year project defense on the Android app project titled "BD Rent App."
