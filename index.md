@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am Syed Tangim Pasha, currently working as a Lecturer in the Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh. My primary focus lies in research, particularly in the fields of Machine Learning, Deep Learning, Affective Computing, Digital Health, and Computational well-being. I am actively engaged in various research projects as a Research Assistant (RA) at EMPATHY Lab, IUB, exploring areas related to Human Stress disorder and Diabetes. My passion for research drives me to contribute to cutting-edge advancements in the Artificial Intelligence with Health Informatics and I constantly seek to expand my knowledge and skills to make meaningful contributions to the scientific community.
+I am Syed Tangim Pasha, currently working as a lecturer in the Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh. My primary focus lies in research, particularly in the fields of machine learning, deep learning, affective computing, digital health, and computational well-being. I am actively engaged in various research projects as a Research Assistant (RA) at EMPATHY Lab, IUB, exploring areas related to human stress disorder and diabetes. My passion for research drives me to contribute to cutting-edge advancements in Artificial Intelligence with Health Informatics, and I constantly seek to expand my knowledge and skills to make meaningful contributions to the scientific community.
 
 ## News
 
+- **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in 11th ICIEV Conference 2023.
 - **[Aug. 2023]** "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus" accepted in IDF Virtual Congress 2023.
-- **[Aug. 2023]** Jita Shanti Rani Hasdak defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App".
-- **[Aug. 2023]** Mejbah Uddin Tamim defended his final year project defense on the Android app project titled "BD Rent App".
+- **[Aug. 2023]** Jita Shanti Rani Hasdak defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App."
+- **[Aug. 2023]** Mejbah Uddin Tamim defended his final year project defense on the Android app project titled "BD Rent App."
 - **[May. 2023]** "Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques" accepted in the 2023 IEEE World AIIoT Congress.
 - **[Mar. 2023]** Joined EMPATHY Lab, IUB, Dhaka, Bangladesh, as a Research Assistant (RA), contributing to research on Human Stress disorder and Diabetes.
 - **[Feb. 2023]** Takes on a role as a Research Assistant (RA) at the CCDS.AI Lab, IUB, Dhaka, Bangladesh.
@@ -33,7 +34,7 @@ I am Syed Tangim Pasha, currently working as a Lecturer in the Department of Com
 ## Projects
 
 - **Bangla Poem Dataset [<a href="https://data.mendeley.com/datasets/zgmrk5m566/draft?a=e1505a47-eb75-4623-9aef-fa845961114b">Mendeley Data</a>]:** We have collected 2207 poems with 11 different categories of the poem and these poems are belongs to 41 different writers’ writings. We have collected different categories of poems from the website of <a href="https://banglarkobita.com/">banglarkobita</a>. After collecting poems, we preprocessed our dataset and made our dataset for our research on Bangla poem classification.
-- **Online Voting System With Linked list Data Structure [<a href="https://github.com/Syed-Tangim-Pasha/Online-Voting-System">GitHub</a>]:** In this project I mainly focused on how data privacy is needed for the online voting system. I was using a linked list data structure in the software to track every user vote and I did this for the society why we should know about any software before using it.
+- **Online Voting System With Linked List Data Structure [<a href="https://github.com/Syed-Tangim-Pasha/Online-Voting-System">GitHub</a>]:** In this project, I mainly focused on how data privacy is needed for the online voting system. I was using a linked list data structure in the software to track every user vote, and I did this to tell society why we should know about any software before using it.
 
 ## Skills
 
