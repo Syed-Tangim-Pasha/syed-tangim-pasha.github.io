@@ -10,8 +10,8 @@ I am Syed Tangim Pasha, currently working as a lecturer in the Department of Com
 
 - **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in the 11th ICIEV Conference 2023.
 - **[Aug. 2023]** "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus" accepted in IDF Virtual Congress 2023.
-- **[Aug. 2023]** Jita Shanti Rani Hasdak defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App."
-- **[Aug. 2023]** Mejbah Uddin Tamim defended his final year project defense on the Android app project titled "BD Rent App."
+- **[Aug. 2023]** My project student, Jita Shanti Rani Hasdak, defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App."
+- **[Aug. 2023]** My project student, Mejbah Uddin Tamim, defended his final year project defense on the Android app project titled "BD Rent App."
 - **[May. 2023]** "Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques" accepted in the 2023 IEEE World AIIoT Congress.
 - **[Mar. 2023]** Joined EMPATHY Lab, IUB, Dhaka, Bangladesh, as a Research Assistant (RA), contributing to research on human stress disorder and diabetes.
 
