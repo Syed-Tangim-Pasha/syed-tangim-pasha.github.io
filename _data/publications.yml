@@ -1,5 +1,11 @@
 main:
 
+  - title: "A Federated Learning Approach for Type-2 Diabetes Detection Using a Naive Bayes Classifier"
+    authors: Mohammed Masudur Rahman, Ashraful Islam, <strong>Syed Tangim Pasha</strong>, Muhammad Usama Islam, Md. Zahangir Alam
+    conference: International Diabetes Federation (IDF) Virtual Congress 2023
+    page: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vRz0vY8AAAAJ&authuser=1&citation_for_view=vRz0vY8AAAAJ:zYLM7Y9cAGgC
+    notes: <strong>https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vRz0vY8AAAAJ&authuser=1&citation_for_view=vRz0vY8AAAAJ:zYLM7Y9cAGgC</strong>
+    
   - title: "Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques"
     authors: <strong>Syed Tangim Pasha</strong>, Ashraful Islam, Eshtiak Ahmed, Mohammed Masudur Rahman, Md. Ferdouse Ahmed Foysal, Md. Zahangir Alam
     conference: IEEE World AI IoT Congress 2023 <strong>(IEEE AIIoT 2023)</strong>.
