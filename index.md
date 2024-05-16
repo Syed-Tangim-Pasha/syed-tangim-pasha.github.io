@@ -27,6 +27,7 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 ## Work Experience
 
 **[May. 2024 – Present]** Adjunct Lecturer, Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB)
+
 **[Jan. 2022 – Jan. 2024]** Lecturer, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
 
 ## Research Experience
