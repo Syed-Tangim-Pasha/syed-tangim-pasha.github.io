@@ -1,5 +1,11 @@
 main:
 
+  - title: "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus"
+    authors: <strong>Syed Tangim Pasha</strong>, Sankar Sikder, Mohammed Masudur Rahman, Ashraful Islam, Md. Zahangir Alam, Md. Tarek Habib, Md. Ashraful Amin
+    conference: International Diabetes Federation (IDF) Virtual Congress 2023
+    page: https://www.diabetesresearchclinicalpractice.com/
+    notes: <strong>Diabetes Research and Clinical Practice (Volume 209), Elsevier</strong>
+    
   - title: "A Federated Learning Approach for Type-2 Diabetes Detection Using a Naive Bayes Classifier"
     authors: Mohammed Masudur Rahman, Ashraful Islam, <strong>Syed Tangim Pasha</strong>, Muhammad Usama Islam, Md. Zahangir Alam
     conference: International Diabetes Federation (IDF) Virtual Congress 2023
