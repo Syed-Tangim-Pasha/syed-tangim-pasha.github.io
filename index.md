@@ -4,20 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Department of Computer Science and Engineering (CSE) at Independent University,Bangladesh (IUB). My primary focus lies in research, particularly in the fields of machine learning, deep learning, affective computing, digital health, and computational well-being. I am actively engaged in various research projects as a Research Assistant (RA) at the Center for Computational & Data Sciences (CCDS) lab, IUB, exploring areas related to human stress disorder and diabetes. My passion for research drives me to contribute to cutting-edge advancements in artificial intelligence and health informatics, and I constantly seek to expand my knowledge and skills to make meaningful contributions to the scientific community.
+I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB). My primary focus lies in research, particularly in the fields of machine learning, deep learning, affective computing, digital health, and computational well-being. I am actively engaged in various research projects as a Research Assistant (RA) at the Center for Computational & Data Sciences (CCDS) lab, IUB, exploring areas related to human stress disorder and diabetes. My passion for research drives me to contribute to cutting-edge advancements in artificial intelligence and health informatics, and I constantly seek to expand my knowledge and skills to make meaningful contributions to the scientific community.
 
 ## News
 
 - **[May. 2024]** Joined as an Adjunct Lecturer in the Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB).
 - **[May. 2024]** "Physiological Signal Data-Driven Workplace Stress Detection Among Healthcare Professionals Using BiLSTM-AM and Ensemble Stacking Models" accepted in the IEEE 2024 International Advances in Science & Engineering Technology (ASET) Multi-Conferences, Dubai.
-- **[Feb. 2024]** Joined Center for Computational & Data Sciences (CCDS) lab, IUB as a Research Assistant (RA) in HCI Wing under Dr. Ashraful Islam.
+- **[Feb. 2024]** Joined Center for Computational & Data Sciences (CCDS) lab, IUB as a Research Assistant (RA) in the HCI Wing under Dr. Ashraful Islam.
 - **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in the 11th ICIEV Conference 2023.
 - **[Sep. 2023]** My project student, Arifuzzaman Raihan's "Kreeto the Virtual Assistant," is finally live (website: https://kreeto.com/).
 - **[Aug. 2023]** "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus" accepted in IDF Virtual Congress 2023.
 - **[Aug. 2023]** My project student, Jita Shanti Rani Hasdak, defended her final year project defense on the Android app project titled "Animal Rescue & Clinical App."
 - **[Aug. 2023]** My project student, Mejbah Uddin Tamim, defended his final year project defense on the Android app project titled "BD Rent App."
 - **[May. 2023]** "Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques" accepted in the 2023 IEEE World AIIoT Congress.
-- **[Mar. 2023]** Joined EMPATHY Lab, IUB, Dhaka, Bangladesh, as a Research Assistant (RA), contributing to research on human stress disorder and diabetes.
+
 
 ## Education
 
