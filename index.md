@@ -8,6 +8,7 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 
 ## News
 
+- **[May. 2024]** Joined as an Adjunct Lecturer in the Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB).
 - **[May. 2024]** "Physiological Signal Data-Driven Workplace Stress Detection Among Healthcare Professionals Using BiLSTM-AM and Ensemble Stacking Models" accepted in the IEEE 2024 International Advances in Science & Engineering Technology (ASET) Multi-Conferences, Dubai.
 - **[Feb. 2024]** Joined Center for Computational & Data Sciences (CCDS) lab, IUB as a Research Assistant (RA) in HCI Wing under Dr. Ashraful Islam.
 - **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in the 11th ICIEV Conference 2023.
@@ -25,11 +26,12 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 
 ## Work Experience
 
-**[Jan. 2022 – Present]** Lecturer, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
+**[May. 2024 – Present]** Adjunct Lecturer, Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB)
+**[Jan. 2022 – Jan. 2024]** Lecturer, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
 
 ## Research Experience
 
-- **[Mar. 2023 – Present]** Research Assistant (RA) at EMPATHY Lab, IUB, Dhaka, Bangladesh, on human stress disorder and other health informatics research.
+- **[Feb. 2024 – Present]** Research Assistant (RA) at the Center for Computational & Data Sciences (CCDS) lab, IUB 
 
 {% include_relative _includes/publications.md %}
 
@@ -41,15 +43,17 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 ## Skills
 
 - **Programming:** C, C++, Python, Java, MySQL
-- **ML Library:** Scikit-learn, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn
+- **ML Library:** Scikit-learn, Tensorflow, PyTorch, Keras, Numpy, Pandas, Matplotlib, Seaborn
 - **Miscellaneous:** Git, Google Colab, Zotero, Overleaf, LATEX
 
 {% include_relative _includes/services.md %}
 
 ## Other Professional Services
 
-- **[Jan. 2023 – Present]** Exam Committee Member, Faculty of Science and Information Technology (FSIT) at Daffodil International University, Dhaka, Bangladesh
-- **[Jan. 2023 – Present]** Thesis/Project Committee Member, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
+- **[Apr. 2023 – Jan. 2024]** M.Sc. in AI Syllabus Committee Member, Department of CIS, Daffodil International University, Dhaka, Bangladesh
+- **[Jan. 2023 – May. 2023]** B.Sc. in IoT Syllabus Committee Member, Department of CIS, Daffodil International University, Dhaka, Bangladesh
+- **[Jan. 2023 – Jan. 2024]** Exam Committee Member, Faculty of Science and Information Technology (FSIT) at Daffodil International University, Dhaka, Bangladesh
+- **[Jan. 2023 – Jan. 2024]** Thesis/Project Committee Member, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
 
 
 {% include_relative _includes/mentoring.md %}
