@@ -8,9 +8,12 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 
 ## News
 
+- **[Sep. 2024]** "ECGInsight: A Web Application-Based Approach to Myocardial Infarction Detection From ECG Image Reports Utilizing ResNet" accepted in the 23rd International Conference on Machine Learning and Applications (ICMLA) 2024.
+- **[Sep. 2024]** "Segment Anything Model (SAM 2) Unveiled: Functionality, Applications, and Practical Implementation Across Multiple Domains" published in Preprints.org.
 - **[May. 2024]** Joined as an Adjunct Lecturer in the Department of Computer Science and Engineering (CSE) at Independent University, Bangladesh (IUB).
 - **[May. 2024]** "Physiological Signal Data-Driven Workplace Stress Detection Among Healthcare Professionals Using BiLSTM-AM and Ensemble Stacking Models" accepted in the IEEE 2024 International Advances in Science & Engineering Technology (ASET) Multi-Conferences, Dubai.
 - **[Feb. 2024]** Joined Center for Computational & Data Sciences (CCDS) lab, IUB as a Research Assistant (RA) in the HCI Wing under Dr. Ashraful Islam.
+- **[Dec. 2023]** My project students, Monjur E Alahi Chowdhury, Tofayel Ahmed, and Md. Akibuzzaman defended their final year project defense.
 - **[Oct. 2023]** "Performance Evaluation of Multi-class Bangla Public Sentiment Analysis Using Machine Learning and Embedding Techniques" accepted in the 11th ICIEV Conference 2023.
 - **[Sep. 2023]** My project student, Arifuzzaman Raihan's "Kreeto the Virtual Assistant," is finally live (website: https://kreeto.com/).
 - **[Aug. 2023]** "Using an Ensemble Machine Learning Model with Explainable AI (XAI) to Diagnose Gestational Diabetes Mellitus" accepted in IDF Virtual Congress 2023.
