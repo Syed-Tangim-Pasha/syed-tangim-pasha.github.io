@@ -54,7 +54,6 @@ I am Syed Tangim Pasha, currently working as an Adjunct Lecturer in the Departme
 
 ## Other Professional Services
 
-- **[Apr. 2023 – Jan. 2024]** M.Sc. in AI Syllabus Committee Member, Department of CIS, Daffodil International University, Dhaka, Bangladesh
 - **[Jan. 2023 – May. 2023]** B.Sc. in IoT Syllabus Committee Member, Department of CIS, Daffodil International University, Dhaka, Bangladesh
 - **[Jan. 2023 – Jan. 2024]** Exam Committee Member, Faculty of Science and Information Technology (FSIT) at Daffodil International University, Dhaka, Bangladesh
 - **[Jan. 2023 – Jan. 2024]** Thesis/Project Committee Member, Department of Computing and Information System (CIS) at Daffodil International University, Dhaka, Bangladesh
