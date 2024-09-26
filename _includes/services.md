@@ -9,5 +9,6 @@
 - <h4 style="margin:0 10px 0;">University SGPA Scholarship of Daffodil International University, (DIU), Dhaka, Bangladesh</h4>
   - <p style="margin:0 0 5px;">I got this SGPA scholarship for the 10th time with different amounts of waiver in semester tuition fees.</p>
 
-  - <h4 style="margin:0 10px 0;">Enhancing Student's Programming Skills Through Problem Solving (BUBT ICPC Dhaka Regional Coach Seminar)</h4>
+- <h4 style="margin:0 10px 0;">Enhancing Student's Programming Skills Through Problem Solving 
+  (BUBT ICPC Dhaka Regional Coach Seminar)</h4>
   - <p style="margin:0 0 5px;">Organized by: Department of CSE, BUBT, Dhaka, Bangladesh</p>
